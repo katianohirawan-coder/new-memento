@@ -1,0 +1,6 @@
+{
+  "name": "MementoMori Gear Engine & True Formula Lab",
+  "description": "Comprehensive MementoMori gear mechanics analyzer, true stat calculator, reforge simulator with 13.3%-60% bounds, exclusive weapon compendium, and set synergy optimizer based on Wazu & Japanese Wiki research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
